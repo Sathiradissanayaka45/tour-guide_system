@@ -54,5 +54,5 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/tour-guide-management.git
+   git clone [https://github.com/your-username/tour-guide-management.git](https://github.com/Sathiradissanayaka45/tour-guide_system.git)https://github.com/Sathiradissanayaka45/tour-guide_system.git
 

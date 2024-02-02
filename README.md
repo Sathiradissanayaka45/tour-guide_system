@@ -47,7 +47,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Java JDK (version 19)
 - MySQL Database Server
-- (Any other specific dependencies)
+- Apache tomcat 10.1
 
 ## 🔧 Setup Instructions
 

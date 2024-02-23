@@ -45,7 +45,7 @@ Welcome to the Tour Guide Management System project! This Java-based system empo
 
 Before you begin, ensure you have met the following requirements:
 
-- Java JDK (version 19)
+- Java version 19
 - MySQL Database Server
 - Apache tomcat 10.1
 
